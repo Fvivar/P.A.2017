@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Laboratorio7", "Laboratorio7\Laboratorio7.vcxproj", "{C7E4B831-7174-414F-AED6-C7D1C10021ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{11B6CF43-21CD-46C4-867F-382CACE05826}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pa-1116616.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Laboratorio7\\Laboratorio7.vcxproj
+		SccProjectName1 = Laboratorio7
+		SccLocalPath1 = Laboratorio7
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E4B831-7174-414F-AED6-C7D1C10021ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7E4B831-7174-414F-AED6-C7D1C10021ED}.Debug|Win32.Build.0 = Debug|Win32
+		{C7E4B831-7174-414F-AED6-C7D1C10021ED}.Release|Win32.ActiveCfg = Release|Win32
+		{C7E4B831-7174-414F-AED6-C7D1C10021ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
